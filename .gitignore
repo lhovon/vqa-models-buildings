@@ -1,0 +1,17 @@
+.venv/
+.vscode/
+__pycache__/
+output/
+notes/
+screenshots*/
+building_materials/
+.env
+metal_*/
+test*/
+hlms/
+buildings*/
+tmp/
+building*/
+data/
+data.zip
+tmp.zip
